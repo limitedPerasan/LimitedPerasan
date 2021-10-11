@@ -1,7 +1,8 @@
+<!DOCTYPE html>
+<h1><span style="font-family:Lucida Sans Unicode,Lucida Grande,sans-s
+erif"><span style="font-size:36px"><strong><em>w<sub>asupp&nbsp;<sup>G</sup></sub><sub>uys</sub></em><em>​​​​​​</em><em>​​​​​​</em><em>​​​​​​</em></strong></span></span></h1>
 
-<h1><span style="font-family:Comic Sans MS,cursive"><span style="font-size:36px">Wassup Guys..</span></span></h1>
-
-<p><span style="font-size:36px"><span style="font-family:Trebuchet MS,Helvetica,sans-serif"><strong>M<em><sub>​​​​​</sub></em></strong><sub><strong>y<sup>NAME <span style="color:#e67e22"><u>S</u></span><u><span style="color:#2ecc71">A</span><span style="color:#e74c3c">F</span><span style="color:#8e44ad">1</span></u></sup></strong></sub></span></span><span style="font-family:Comic Sans MS,cursive"><span style="font-size:36px">​​​​​​</span></span></p>
+<p><span style="font-size:36px"><span style="font-family:Trebuchet MS,Helvetica,sans-serif"><strong>M<em><sub>​​​​​</sub></em></strong><sub><strong>y<sup>NAME <u><span style="color:#f39c12">S</span><span style="color:#1abc9c">A</span><span style="color:#c0392b">F</span><span style="color:#2ecc71">1</span></u></sup></strong></sub></span></span><span style="font-family:Comic Sans MS,cursive"><span style="font-size:36px">​​​​​​</span></span></p>
 
 <p><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/18a4949fc9c8067172d3b96e302e7097.gif" style="height:263px; width:350px" /></p>
 
@@ -18,7 +19,8 @@
 
 <h3>Connect with me:</h3>
 
-<p><a href="https://instagram.com/_saf1_99" target="blank"><img alt="_saf1_99" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" style="height:30px; width:40px" /></a> <a href="https://medium.com/dikwanisback" target="blank"><img alt="dikwanisback" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" style="height:30px; width:40px" /></a> <a href="https://www.youtube.com/c/dikwanisback" target="blank"><img alt="dikwanisback" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" style="height:30px; width:40px" /></a><img alt="MyNameDikwan" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg  " style="border-style:solid; border-width:2px; height:30px; width:40px" /></p>
+<p><a href="https://instagram.com/_saf1_99" target="blank"><img alt="_saf1_99" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="height:30px; width:40px" /></a> <a href="https://mail.google.com" target="blank"><img alt="matcelake123" src="https://cdn.jsdelivr.net/npm/simple-
+icons@v3/icons/gmail.svg" style="height:30px; width:40px" /></a> <a href="https://www.youtube.com/c/dikwan is back" target="blank"><img alt="dikwan is back" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="height:30px; width:40px" /></a><a href="https://t.me/MyNameDikwan"><img alt="MyNameDikwan" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="border-style:solid; border-width:1px; height:30px; width:40px" /></a></p>
 
 <p>&nbsp;</p>
 
@@ -31,5 +33,3 @@
 <p>&nbsp;<img alt="limitedperasan" src="https://github-readme-stats.vercel.app/api?username=limitedperasan&amp;show_icons=true&amp;locale=en" /></p>
 
 <p><img alt="limitedperasan" src="https://github-readme-streak-stats.herokuapp.com/?user=limitedperasan&amp;" /></p>
-
-<p>--&gt;</p>
