@@ -19,8 +19,7 @@ erif"><span style="font-size:36px"><strong><em>w<sub>asupp&nbsp;<sup>G</sup></su
 
 <h3>Connect with me:</h3>
 
-<p><a href="https://instagram.com/_saf1_99" target="blank"><img alt="_saf1_99" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="height:30px; width:40px" /></a> <a href="https://mail.google.com" target="blank"><img alt="matcelake123" src="https://cdn.jsdelivr.net/npm/simple-
-icons@v3/icons/gmail.svg" style="height:30px; width:40px" /></a> <a href="https://www.youtube.com/c/dikwan is back" target="blank"><img alt="dikwan is back" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="height:30px; width:40px" /></a><a href="https://t.me/MyNameDikwan"><img alt="MyNameDikwan" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="border-style:solid; border-width:1px; height:30px; width:40px" /></a></p>
+<p><a href="https://instagram.com/_saf1_99" target="blank"><img alt="_saf1_99" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="height:30px; width:40px" /></a> <a href="https://www.youtube.com/c/dikwan is back" target="blank"><img alt="dikwan is back" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="height:30px; width:40px" /></a><a href="https://t.me/MyNameDikwan"><img alt="MyNameDikwan" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" style="border-style:solid; border-width:1px; height:30px; width:40px" /></a></p>
 
 <p>&nbsp;</p>
 
