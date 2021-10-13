@@ -4,7 +4,7 @@ erif"><span style="font-size:36px"><strong><em>w<sub>asupp&nbsp;<sup>G</sup></su
 
 <p><span style="font-size:36px"><span style="font-family:Trebuchet MS,Helvetica,sans-serif"><strong>M<em><sub>​​​​​</sub></em></strong><sub><strong>y<sup>NAME <u><span style="color:#f39c12">S</span><span style="color:#1abc9c">A</span><span style="color:#c0392b">F</span><span style="color:#2ecc71">1</span></u></sup></strong></sub></span></span><span style="font-family:Comic Sans MS,cursive"><span style="font-size:36px">​​​​​​</span></span></p>
 
-<p><img alt="" src="https://ckeditor.com/apps/ckfinder/userfiles/files/18a4949fc9c8067172d3b96e302e7097.gif" style="height:263px; width:350px" /></p>
+<p></p>
 
 <p><img src="https://img.shields.io/badge/windows-%230078D6.svg?&amp;style=for-the-badge&amp;logo=windows&amp;logoColor=white" /> <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&amp;style=for-the-badge&amp;logo=intel&amp;logoColor=white" /> <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&amp;style=for-the-badge&amp;logoColor=white" /> <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&amp;style=for-the-badge&amp;logo=nvidia&amp;logoColor=white" /></p>
 
